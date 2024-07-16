@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+nav a{
+    margin: 0 10px;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover{
+    color: #ccc;
+}
+/*Ativa o NavLink*/
+.active{
+    background-color: hsl(32, 73%, 53%);
+    color: #fff;
+    border-radius: 5px;
+}

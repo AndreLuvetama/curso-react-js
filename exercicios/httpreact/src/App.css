@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+
+.add-product{
+  border-top: 1px solid #ccc;
+}
+form{
+  display: flex;
+  flex-direction: column; /* colocamos em posiçãoo colunar*/
+  align-items: center;
+  justify-content: center;
+}
+form input{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}

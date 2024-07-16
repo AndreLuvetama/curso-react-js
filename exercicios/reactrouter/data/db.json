@@ -1,0 +1,65 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "camisa",
+        "price": 59.99
+      },
+      {
+        "id": "2",
+        "name": "Calça vermelha",
+        "price": 90
+      },
+      {
+        "id": "3",
+        "name": "Boné aba reta",
+        "price": 59.99
+      },
+      {
+        "id": "4",
+        "name": "Chapeu",
+        "price": "34.0"
+      },
+      {
+        "id": "5",
+        "name": "Camisol branca",
+        "price": "70.00"
+      },
+      {
+        "id": "6",
+        "name": "Tenis",
+        "price": "23.0"
+      },
+      {
+        "id": "7",
+        "name": "Sapato",
+        "price": "1200.00"
+      },
+      {
+        "id": "8",
+        "name": "Terno",
+        "price": "1220.00"
+      },
+      {
+        "id": "9",
+        "name": "Bolsa",
+        "price": "400.00"
+      },
+      {
+        "id": "10",
+        "name": "Jaqueta",
+        "price": "1200.00"
+      },
+      {
+        "id": "11",
+        "name": "Livro",
+        "price": "30.00"
+      },
+     
+      {
+        "id": "12",
+        "name": "Livro de C",
+        "price": "30.00"
+      }
+    ]
+  }

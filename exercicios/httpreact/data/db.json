@@ -1,0 +1,97 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "camisa",
+      "price": 59.99
+    },
+    {
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 59.99
+    },
+    {
+      "id": "1257",
+      "name": "Chapeu",
+      "price": "34.0"
+    },
+    {
+      "id": "f0fc",
+      "name": "Camisol branca",
+      "price": "70.00"
+    },
+    {
+      "id": "697c",
+      "name": "Tenis",
+      "price": "23.0"
+    },
+    {
+      "id": "70bc",
+      "name": "Sapato",
+      "price": "1200.00"
+    },
+    {
+      "id": "3bb3",
+      "name": "Terno",
+      "price": "1220.00"
+    },
+    {
+      "id": "6765",
+      "name": "Bolsa",
+      "price": "400.00"
+    },
+    {
+      "id": "a718",
+      "name": "Jaqueta",
+      "price": "1200.00"
+    },
+    {
+      "id": "a530",
+      "name": "Livro",
+      "price": "30.00"
+    },
+    {
+      "id": "5792"
+    },
+    {
+      "id": "12ee",
+      "name": "Livro de C",
+      "price": "30.00"
+    },
+    {
+      "id": "9ec9",
+      "name": "Livro de JAVA",
+      "price": "400.00"
+    },
+    {
+      "id": "9668",
+      "name": "Livro de JAVA",
+      "price": "400.00"
+    },
+    {
+      "id": "29b3",
+      "name": "Livro de JAVA",
+      "price": "400.00"
+    },
+    {
+      "id": "4864",
+      "name": "Caneta ",
+      "price": "2"
+    },
+    {
+      "id": "81d1",
+      "name": "Caneta ",
+      "price": "2"
+    },
+    {
+      "id": "d95c",
+      "name": "Suport MC",
+      "price": "129.00"
+    }
+  ]
+}
